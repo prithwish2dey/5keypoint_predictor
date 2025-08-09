@@ -101,9 +101,11 @@ threadpoolctl
 tifffile
 timm
 tomlkit
-torch
+torch==2.5.0
+torchvision==0.21.0
+
 torchaudio
-torchvision
+
 tornado
 tqdm
 traitlets
