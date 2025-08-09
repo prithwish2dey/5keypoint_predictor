@@ -4,7 +4,6 @@ albumentations
 annotated-types
 anyio
 asttokens
-audioop-lts
 blinker
 Brotli
 certifi
